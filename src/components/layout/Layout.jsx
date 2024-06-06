@@ -1,5 +1,5 @@
 import TopNavbar from '../topNavbar/TopNavbar'
-import Sidebar from '../sidebar/SideBar'
+import Sidebar from '../sidebar/Sidebar.jsx'
 
 function Layout({ children }) {
     return (
